@@ -27,4 +27,5 @@ Shaping concept to code for the future of multimodal and advanced agentic GenAI 
 ![NVIDIA NeMo](https://img.shields.io/badge/NVIDIA_NeMo-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 
-<img width="811" height="1000" alt="image" src="https://github.com/user-attachments/assets/d1e48f7a-88e7-47ed-b4eb-447d6ace88ff" />
+<img width="811" height="1000" alt="image" src="https://github.com/user-attachments/assets/d1e48f7a-88e7-47ed-b4eb-447d6ace88ff" /> <img width="1636" height="1592" alt="image" src="https://github.com/user-attachments/assets/776b6a95-a893-4dac-b30a-52de415db971" />
+
