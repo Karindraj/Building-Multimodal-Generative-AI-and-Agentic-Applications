@@ -49,6 +49,9 @@ This book is for AI enthusiasts, data scientists, ML engineers, and software dev
 <img width="811" height="1000" alt="image" src="https://github.com/user-attachments/assets/d1e48f7a-88e7-47ed-b4eb-447d6ace88ff" /> 
 
 
+
+
+
 | Chapter                                                                   |                                                                              |
 | ------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
 | Chapter 1 — Introducing New Age Generative AI                             | <img src="https://cdn.simpleicons.org/github/000000" width="20"> Coming Soon |
