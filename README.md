@@ -49,25 +49,25 @@ This book is for AI enthusiasts, data scientists, ML engineers, and software dev
 <img width="811" height="1000" alt="image" src="https://github.com/user-attachments/assets/d1e48f7a-88e7-47ed-b4eb-447d6ace88ff" /> 
 
 
-| Chapter                                                                   |                                                                                                        |
-| ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
-| Chapter 1 — Introducing New Age Generative AI                             | <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.svg" width="20"> Coming Soon |
-| Chapter 2 — Deep Dive into Multimodal Systems                             | <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.svg" width="20"> Coming Soon |
-| Chapter 3 — Implementing Unimodal Local GenAI System                      | <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.svg" width="20"> Coming Soon |
-| Chapter 4 — Implementing Unimodal API-based GenAI Systems                 | <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.svg" width="20"> Coming Soon |
-| Chapter 5 — Implementing Agentic GenAI Systems with Human-in-the-loop     | <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.svg" width="20"> Coming Soon |
-| Chapter 6 — Two and Multi-stage GenAI Systems                             | <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.svg" width="20"> Coming Soon |
-| Chapter 7 — Building a Bidirectional Multimodal Retrieval System          | <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.svg" width="20"> Coming Soon |
-| Chapter 8 — Building a Multimodal RAG System                              | <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.svg" width="20"> Coming Soon |
-| Chapter 9 — Building GenAI Systems with Reranking                         | <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.svg" width="20"> Coming Soon |
-| Chapter 10 — Retrieval Optimization for Multimodal GenAI                  | <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.svg" width="20"> Coming Soon |
-| Chapter 11 — Building Multimodal GenAI Systems with Voice as Input        | <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.svg" width="20"> Coming Soon |
-| Chapter 12 — Advanced Multimodal GenAI Systems                            | <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.svg" width="20"> Coming Soon |
-| Chapter 13 — Advanced Multimodal GenAI Systems Implementation             | <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.svg" width="20"> Coming Soon |
-| Chapter 14 — Building Text-to-SQL Systems                                 | <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.svg" width="20"> Coming Soon |
-| Chapter 15 — Agentic Text-to-SQL Systems and Architecture Decision-Making | <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.svg" width="20"> Coming Soon |
-| Chapter 16 — GenAI for Extracting Text from Images                        | <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.svg" width="20"> Coming Soon |
-| Chapter 17 — Integrating Traditional AI/ML into GenAI Workflow            | <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.svg" width="20"> Coming Soon |
-| Chapter 18 — LLM Operations and GenAI Evaluation Techniques               | <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.svg" width="20"> Coming Soon |
+| Chapter                                                                   |                                                                              |
+| ------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| Chapter 1 — Introducing New Age Generative AI                             | <img src="https://cdn.simpleicons.org/github/000000" width="20"> Coming Soon |
+| Chapter 2 — Deep Dive into Multimodal Systems                             | <img src="https://cdn.simpleicons.org/github/000000" width="20"> Coming Soon |
+| Chapter 3 — Implementing Unimodal Local GenAI System                      | <img src="https://cdn.simpleicons.org/github/000000" width="20"> Coming Soon |
+| Chapter 4 — Implementing Unimodal API-based GenAI Systems                 | <img src="https://cdn.simpleicons.org/github/000000" width="20"> Coming Soon |
+| Chapter 5 — Implementing Agentic GenAI Systems with Human-in-the-loop     | <img src="https://cdn.simpleicons.org/github/000000" width="20"> Coming Soon |
+| Chapter 6 — Two and Multi-stage GenAI Systems                             | <img src="https://cdn.simpleicons.org/github/000000" width="20"> Coming Soon |
+| Chapter 7 — Building a Bidirectional Multimodal Retrieval System          | <img src="https://cdn.simpleicons.org/github/000000" width="20"> Coming Soon |
+| Chapter 8 — Building a Multimodal RAG System                              | <img src="https://cdn.simpleicons.org/github/000000" width="20"> Coming Soon |
+| Chapter 9 — Building GenAI Systems with Reranking                         | <img src="https://cdn.simpleicons.org/github/000000" width="20"> Coming Soon |
+| Chapter 10 — Retrieval Optimization for Multimodal GenAI                  | <img src="https://cdn.simpleicons.org/github/000000" width="20"> Coming Soon |
+| Chapter 11 — Building Multimodal GenAI Systems with Voice as Input        | <img src="https://cdn.simpleicons.org/github/000000" width="20"> Coming Soon |
+| Chapter 12 — Advanced Multimodal GenAI Systems                            | <img src="https://cdn.simpleicons.org/github/000000" width="20"> Coming Soon |
+| Chapter 13 — Advanced Multimodal GenAI Systems Implementation             | <img src="https://cdn.simpleicons.org/github/000000" width="20"> Coming Soon |
+| Chapter 14 — Building Text-to-SQL Systems                                 | <img src="https://cdn.simpleicons.org/github/000000" width="20"> Coming Soon |
+| Chapter 15 — Agentic Text-to-SQL Systems and Architecture Decision-Making | <img src="https://cdn.simpleicons.org/github/000000" width="20"> Coming Soon |
+| Chapter 16 — GenAI for Extracting Text from Images                        | <img src="https://cdn.simpleicons.org/github/000000" width="20"> Coming Soon |
+| Chapter 17 — Integrating Traditional AI/ML into GenAI Workflow            | <img src="https://cdn.simpleicons.org/github/000000" width="20"> Coming Soon |
+| Chapter 18 — LLM Operations and GenAI Evaluation Techniques               | <img src="https://cdn.simpleicons.org/github/000000" width="20"> Coming Soon |
 
 
