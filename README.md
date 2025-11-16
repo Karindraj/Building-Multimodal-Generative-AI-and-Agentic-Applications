@@ -52,7 +52,7 @@ This book is for AI enthusiasts, data scientists, ML engineers, and software dev
 
 
 
-| Chapter                                                                   |                                                                              |
+| Chapters                                                                   |                                                                              |
 | ------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
 | Chapter 1 — Introducing New Age Generative AI                             | <img src="https://cdn.simpleicons.org/github/000000" width="20"> Coming Soon |
 | Chapter 2 — Deep Dive into Multimodal Systems                             | <img src="https://cdn.simpleicons.org/github/000000" width="20"> Coming Soon |
