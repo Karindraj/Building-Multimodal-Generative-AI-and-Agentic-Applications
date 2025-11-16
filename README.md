@@ -26,6 +26,10 @@ Shaping concept to code for the future of multimodal and advanced agentic GenAI 
 ![HuggingFace Transformers](https://img.shields.io/badge/HuggingFace_Transformers-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black)
 ![NVIDIA NeMo](https://img.shields.io/badge/NVIDIA_NeMo-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
+![PyTorch Lightning](https://img.shields.io/badge/PyTorch--Lightning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Ultralytics](https://img.shields.io/badge/Ultralytics-000000?style=for-the-badge&logo=ultralytics&logoColor=white)
+
+
 
 Generative AI and agentic AI are reshaping how we interact with data, enabling intelligent systems that can reason, generate, and autonomously act across multiple modalities. From text and images to voice and structured data, these technologies are increasingly essential in enterprise and research applications today.
 
