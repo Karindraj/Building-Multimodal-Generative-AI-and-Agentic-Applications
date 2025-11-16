@@ -27,5 +27,47 @@ Shaping concept to code for the future of multimodal and advanced agentic GenAI 
 ![NVIDIA NeMo](https://img.shields.io/badge/NVIDIA_NeMo-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 
-<img width="811" height="1000" alt="image" src="https://github.com/user-attachments/assets/d1e48f7a-88e7-47ed-b4eb-447d6ace88ff" /> <img width="1636" height="1592" alt="image" src="https://github.com/user-attachments/assets/776b6a95-a893-4dac-b30a-52de415db971" />
+Generative AI and agentic AI are reshaping how we interact with data, enabling intelligent systems that can reason, generate, and autonomously act across multiple modalities. From text and images to voice and structured data, these technologies are increasingly essential in enterprise and research applications today.
+
+This book offers a complete roadmap to mastering multimodal generative AI and agentic AI systems. It covers foundational concepts, vision-language models, retrieval-augmented generation, human-in-the-loop and multi-agent workflows, text-to-SQL, OCR, and hybrid AI integrations. Each chapter combines theory, practical guidance, code implementations, and real-world case studies, helping readers understand architectures, pipelines, and production-grade deployments.
+
+By the end of this book, readers will be capable of designing, implementing, and scaling robust multimodal and agentic AI systems. They will gain hands-on expertise in reasoning, generation, retrieval, agent orchestration, and Ops, equipping them to build production-ready AI applications and excel in their roles.
+
+What you will learn
+● Understand multimodal generative AI and agentic AI systems.
+● Architecting RAG, vector DBs, embeddings, cross-encoders, and core agentic planning.
+● Build retrieval-augmented generation workflows efficiently.
+● Implement human-in-the-loop and multi-agent pipelines.
+● Apply text-to-SQL for real-time data queries.
+● Develop OCR solutions for images and documents.
+● Integrate traditional ML models with GenAI workflows.
+● Deploy production-grade AI with monitoring and observability.
+
+Who this book is for
+This book is for AI enthusiasts, data scientists, ML engineers, and software developers with foundational Python and ML knowledge. It is ideal for tech leads, researchers, and enterprise architects aiming to build and scale multimodal, production-grade agentic AI systems.
+
+<img width="811" height="1000" alt="image" src="https://github.com/user-attachments/assets/d1e48f7a-88e7-47ed-b4eb-447d6ace88ff" /> 
+
+
+| Chapter                                                                   |                                                                                                        |
+| ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| Chapter 1 — Introducing New Age Generative AI                             | <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.svg" width="20"> Coming Soon |
+| Chapter 2 — Deep Dive into Multimodal Systems                             | <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.svg" width="20"> Coming Soon |
+| Chapter 3 — Implementing Unimodal Local GenAI System                      | <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.svg" width="20"> Coming Soon |
+| Chapter 4 — Implementing Unimodal API-based GenAI Systems                 | <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.svg" width="20"> Coming Soon |
+| Chapter 5 — Implementing Agentic GenAI Systems with Human-in-the-loop     | <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.svg" width="20"> Coming Soon |
+| Chapter 6 — Two and Multi-stage GenAI Systems                             | <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.svg" width="20"> Coming Soon |
+| Chapter 7 — Building a Bidirectional Multimodal Retrieval System          | <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.svg" width="20"> Coming Soon |
+| Chapter 8 — Building a Multimodal RAG System                              | <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.svg" width="20"> Coming Soon |
+| Chapter 9 — Building GenAI Systems with Reranking                         | <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.svg" width="20"> Coming Soon |
+| Chapter 10 — Retrieval Optimization for Multimodal GenAI                  | <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.svg" width="20"> Coming Soon |
+| Chapter 11 — Building Multimodal GenAI Systems with Voice as Input        | <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.svg" width="20"> Coming Soon |
+| Chapter 12 — Advanced Multimodal GenAI Systems                            | <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.svg" width="20"> Coming Soon |
+| Chapter 13 — Advanced Multimodal GenAI Systems Implementation             | <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.svg" width="20"> Coming Soon |
+| Chapter 14 — Building Text-to-SQL Systems                                 | <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.svg" width="20"> Coming Soon |
+| Chapter 15 — Agentic Text-to-SQL Systems and Architecture Decision-Making | <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.svg" width="20"> Coming Soon |
+| Chapter 16 — GenAI for Extracting Text from Images                        | <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.svg" width="20"> Coming Soon |
+| Chapter 17 — Integrating Traditional AI/ML into GenAI Workflow            | <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.svg" width="20"> Coming Soon |
+| Chapter 18 — LLM Operations and GenAI Evaluation Techniques               | <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.svg" width="20"> Coming Soon |
+
 
